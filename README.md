@@ -1,1 +1,1 @@
-<img width="486" height="426" alt="스크린샷 2026-05-13 오전 7 18 56" src="https://github.com/user-attachments/assets/222929d6-bf40-49ff-8720-fe683d913015" /><img width="745" height="822" alt="스크린샷 2026-05-13 오전 7 19 26" src="https://github.com/user-attachments/assets/ab449d30-250e-4c1e-98c9-6f121c06bd26" />
+<img width="796" height="303" alt="스크린샷 2026-05-21 오후 2 21 14" src="https://github.com/user-attachments/assets/6f266d88-ac3e-46e0-9c84-7333b2fc1f03" />
